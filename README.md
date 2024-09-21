@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonukarn" alt="sonukarn" /></a> </p>
 
-- 🔭 I’m currently working on [Blog-Website](https://github.com/sonukarn/Responsive-Blog-Website)
+- 🔭 I’m currently working on [E-Commerce Website Using Mern Stack](https://github.com/sonukarn/sonuwebTechE-Comm-Auth)
 
 - 🌱 I’m currently learning **React Native and expending skill in Backend development**
 
-- 👨‍💻 All of my projects are available at [https://sonukarn.github.io/#](https://sonukarn.github.io/#)
+- 👨‍💻 All of my projects are available at [https://sonu-kumar-portfolio.onrender.com/)
 
 - 💬 Ask me about **Frontend Development like React, JavaScript, Node and more.**
 
